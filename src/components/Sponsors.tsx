@@ -8,11 +8,11 @@ interface SponsorProps {
 const sponsors: SponsorProps[] = [
   {
     icon: <Radar size={34} />,
-    name: "Sponsor 1",
+    name: "Wang Xuan",
   },
   {
     icon: <Radar size={34} />,
-    name: "Sponsor 2",
+    name: "Ma Pengfei",
   },
   {
     icon: <Radar size={34} />,
