@@ -22,7 +22,7 @@ export const Hero = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-        世界领先的数字孪生心脏模拟平台
+        世界领先的数字孪生心脏模拟平台<br/>(这里吹一下牛)
         {/* ，赋能个性化医疗，加速心脏疾病研究与临床转化。 */}
         </p>
 

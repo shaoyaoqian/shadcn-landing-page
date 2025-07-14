@@ -10,25 +10,25 @@ interface FeatureProps {
 const features: FeatureProps[] = [
   {
     icon: <MedalIcon />,
-    title: "Accessibility",
+    title: "几何重建",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
   },
   {
     icon: <MapIcon />,
-    title: "Community",
+    title: "流固电耦合",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
   },
   {
     icon: <PlaneIcon />,
-    title: "Scalability",
+    title: "冠脉灌注",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
   },
   {
     icon: <GiftIcon />,
-    title: "Gamification",
+    title: "个性化诊疗",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
   },
